@@ -1,4 +1,4 @@
-public class Q1(HelloWorld.)java{
+public class Q1 java{
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
